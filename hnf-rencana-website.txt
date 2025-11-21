@@ -2,6 +2,7 @@ RENCANA MEMBANGUN WEBSITE TANPA AI
 - UI & UX
  ^ Adobe XD
  ^ Figma
+- Database MySQL
 - Laravel
 - Testing
 - Hosting
