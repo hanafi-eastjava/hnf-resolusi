@@ -3,6 +3,7 @@ RENCANA MEMBANGUN WEBSITE TANPA AI
  ^ Adobe XD
  ^ Figma
   * Wire Frame
+  * Prototyping
 - Database MySQL
 - Laravel
  ^ versi 12
