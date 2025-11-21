@@ -2,9 +2,11 @@ RENCANA MEMBANGUN WEBSITE TANPA AI
 - UI & UX
  ^ Adobe XD
  ^ Figma
-  * Layouting
+  * Wire Frame
   * Prototyping
+- Database MySQL
 - Laravel
- ^ Versi 12
+ ^ versi 12
 - Testing
 - Hosting
+- Dokumentasikan
