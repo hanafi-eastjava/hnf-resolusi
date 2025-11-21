@@ -1,0 +1,5 @@
+RENCANA MEMBANGUN WEBSITE TANPA AI
+- UI & UX
+- Laravel
+- Testing
+- Hosting
